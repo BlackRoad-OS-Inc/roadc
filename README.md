@@ -1,5 +1,13 @@
 # roadc
 
+> RoadC — Custom programming language with Python-style indentation syntax. Full lexer, parser, tree-walking interpreter (Python) + zero-dependency C99 compiler. Great for learning language design. (BlackRoad integration)
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# roadc
+
 RoadC — Custom programming language with Python-style indentation syntax. Full lexer, parser, tree-walking interpreter (Python) + zero-dependency C99 compiler. Great for learning language design. (BlackRoad integration)
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
